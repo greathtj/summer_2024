@@ -3,9 +3,12 @@
 # 영재학교 현장연구 2024년도
 
 ## Introduction to Arduino
+
 ### What is Arduino?
 
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's designed to make the process of using electronics in multidisciplinary projects more accessible. The Arduino boards are equipped with a microcontroller, which is a small computer on a single integrated circuit.
+
+![alt text](https://ce8dc832c.cloudimg.io/v7/_cdn_/CA/56/60/00/0/419244_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=24d4ccb4cea9fae38374e652ced53fe25cc43baa)
 
 ### Why Use Arduino?
 - Educational Tool: Arduino is widely used in educational environments because it simplifies the process of learning electronics and programming.
@@ -37,5 +40,10 @@ Gradually move to more complex projects like creating a weather station, a robot
 - Community Forums: Places like the Arduino Forum and Instructables where you can ask questions and share your projects.
 - YouTube Channels: Many creators share Arduino tutorials and project walkthroughs.
 
+## How to use ESP32
+
+### What is ESP32
+
+- ESP32 pinout map
 ![alt text](https://raw.githubusercontent.com/AchimPieters/esp32-homekit-camera/master/Images/ESP32-30PIN-DEVBOARD.png)
 
