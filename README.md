@@ -2,12 +2,12 @@
 
 # 영재학교 현장연구 2024년도
 
-+ Introduction to Arduino
+## Introduction to Arduino
 + What is Arduino?
 
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's designed to make the process of using electronics in multidisciplinary projects more accessible. The Arduino boards are equipped with a microcontroller, which is a small computer on a single integrated circuit.
 
-Why Use Arduino?
++ Why Use Arduino?
 Educational Tool: Arduino is widely used in educational environments because it simplifies the process of learning electronics and programming.
 Creativity and Innovation: It allows users to create interactive projects by connecting various sensors, actuators, and other components.
 Community Support: There is a large community of users who share their projects and solutions, making it easier to find help and inspiration.
