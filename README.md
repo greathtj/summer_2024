@@ -15,6 +15,8 @@ AI works by using a lot of data and advanced algorithms (which are like recipes 
 - Machine Learning: This is a type of AI where the computer is given lots of data and it learns patterns and rules from that data. The more data it gets, the better it becomes at understanding and predicting new information.
 - Neural Networks: These are complex algorithms inspired by the human brain that help AI systems recognize patterns and make decisions.
 
+![alt text](https://photos.google.com/photo/AF1QipMbABxVdax0gQerrUH0t5FTihWRE1cOhqAtMEWR)
+
 ### AI in Data Management Projects
 For your data management projects, AI can be used in several cool ways:
 
