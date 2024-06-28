@@ -8,16 +8,17 @@
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's designed to make the process of using electronics in multidisciplinary projects more accessible. The Arduino boards are equipped with a microcontroller, which is a small computer on a single integrated circuit.
 
 + Why Use Arduino?
-Educational Tool: Arduino is widely used in educational environments because it simplifies the process of learning electronics and programming.
+- Educational Tool: Arduino is widely used in educational environments because it simplifies the process of learning electronics and programming.
 Creativity and Innovation: It allows users to create interactive projects by connecting various sensors, actuators, and other components.
-Community Support: There is a large community of users who share their projects and solutions, making it easier to find help and inspiration.
+- Community Support: There is a large community of users who share their projects and solutions, making it easier to find help and inspiration.
 Key Components of Arduino
-Arduino Board: The physical board that you program. Popular models include Arduino Uno, Nano, and Mega.
-Microcontroller: The 'brain' of the Arduino, which executes the code you write.
-Digital and Analog Pins: These are used to connect sensors, LEDs, motors, and other components.
-USB Connection: Used for uploading programs from your computer to the board.
-Power Supply: Arduino can be powered via USB or an external power source.
-Getting Started with Arduino
+- Arduino Board: The physical board that you program. Popular models include Arduino Uno, Nano, and Mega.
+- Microcontroller: The 'brain' of the Arduino, which executes the code you write.
+- Digital and Analog Pins: These are used to connect sensors, LEDs, motors, and other components.
+- USB Connection: Used for uploading programs from your computer to the board.
+- Power Supply: Arduino can be powered via USB or an external power source.
+
++ Getting Started with Arduino
 Set Up Your Arduino:
 
 Install the Arduino IDE: Download and install the Arduino Integrated Development Environment (IDE) from arduino.cc.
