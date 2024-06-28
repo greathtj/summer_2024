@@ -4,6 +4,7 @@
 
 + Introduction to Arduino
 + What is Arduino?
+
 Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's designed to make the process of using electronics in multidisciplinary projects more accessible. The Arduino boards are equipped with a microcontroller, which is a small computer on a single integrated circuit.
 
 Why Use Arduino?
