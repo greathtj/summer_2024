@@ -43,7 +43,7 @@ Remember, AI is all about making machines smart so they can help us with various
 
 ## Object detection as an example
 
-### Waht is the object detection?
+### What is the object detection?
 Imagine you have a photo with a lot of different things in it: a dog, a cat, a tree, and a car. Object detection is a way for computers to look at that photo and not only recognize what's in it but also point out exactly where each thing is. It's like having a super-smart computer that can see and tell you, "Here's a cat, there's a dog, and over there is a car."
 
 ![alt text](https://miro.medium.com/v2/resize:fit:872/0*ByD9YgAm-H--o70v.png)
