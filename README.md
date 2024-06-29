@@ -17,6 +17,8 @@ AI works by using a lot of data and advanced algorithms (which are like recipes 
 
 ![alt text](images/ai01.png)
 
+![alt text](images/ai02.png)
+
 ### AI in Data Management Projects
 For your data management projects, AI can be used in several cool ways:
 
@@ -38,6 +40,12 @@ AI is important because it can handle complex tasks quickly and accurately, ofte
 - Projects: Hands-on projects, like the ones you're doing, are a great way to learn. Try building simple AI models to see how they work.
 
 Remember, AI is all about making machines smart so they can help us with various tasks. Whether it's managing data, recognizing patterns, or predicting future events, AI is a powerful tool that can make our lives easier and more efficient.
+
+## Object detection as an example
+
+### Waht is the object detection?
+
+
 
 ## Introduction to Arduino
 
