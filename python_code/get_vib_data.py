@@ -3,7 +3,7 @@ import time
 import csv
 
 # Adjust the serial port name and baud rate as needed
-SERIAL_PORT = 'COM4'  # For Windows, it might be 'COM3', 'COM4', etc.
+SERIAL_PORT = 'COM19'  # For Windows, it might be 'COM3', 'COM4', etc.
 BAUD_RATE = 115200
 CSV_FILENAME = 'vibration_data.csv'
 
