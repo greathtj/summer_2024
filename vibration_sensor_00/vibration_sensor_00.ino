@@ -32,7 +32,7 @@ void create_vibration(void *pvParameters) {
   while (true) {
     if (motor_run) {
       delay(500);
-      myVibrationMotor.pulse(3);
+      myVibrationMotor.pulse(5);
       motor_run = false;
     }
     delay(10);
