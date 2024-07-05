@@ -118,7 +118,12 @@ Gradually move to more complex projects like creating a weather station, a robot
 
 The ESP32 is a low-cost, low-power system on a chip (SoC) with integrated Wi-Fi and Bluetooth capabilities. It is developed by Espressif Systems and is widely used in IoT (Internet of Things) applications due to its versatility and powerful features.
 
+- specification
+
+![alt text](images/esp3202.png)
+
 - ESP32 pinout map
+
 ![alt text](https://raw.githubusercontent.com/AchimPieters/esp32-homekit-camera/master/Images/ESP32-30PIN-DEVBOARD.png)
 
 ### Why Use ESP32?
