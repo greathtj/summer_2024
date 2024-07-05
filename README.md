@@ -132,3 +132,5 @@ Key Features of ESP32
 - GPIO Pins: General-purpose input/output pins for connecting sensors, actuators, and other components.
 - Analog and Digital Inputs: Capable of reading both analog and digital signals.
 - Built-in Sensors: Some models come with integrated sensors like touch and Hall effect sensors.
+
+https://colab.research.google.com/drive/14DQhBXKtnMFWB9FibY1J_oehefB0tfe-?usp=sharing
