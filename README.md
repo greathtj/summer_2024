@@ -139,4 +139,43 @@ The ESP32 is a low-cost, low-power system on a chip (SoC) with integrated Wi-Fi 
 - Analog and Digital Inputs: Capable of reading both analog and digital signals.
 - Built-in Sensors: Some models come with integrated sensors like touch and Hall effect sensors.
 
+# 1st project
+
+## Input and Output through analog and digital ports
+
+- potentimeter
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Electronic-Component-Potentiometer.jpg/1200px-Electronic-Component-Potentiometer.jpg" alt="image" width="30%" height="auto">
+
+- digital humidity/temperature sensor
+
+<img src="https://components101.com/sites/default/files/components/DHT11-Sensor.jpg" alt="DHT11" width="30%" height="auto">
+
+## Connect MPU6050 and read vibration signal
+
+- MPU6050 sensor
+
+<img src="https://user-images.githubusercontent.com/107638696/241324971-43b8fe88-447d-4c2d-9296-4b3aaa50f4ce.png" alt="DHT11" width="30%" height="auto">
+
+## Retrieve and save the obtained data in your PC
+
+- python code??
+
+# 2nd project
+
+## Object detection with deep learning
+
+- Prepare your python.
+- Connect your webcam.
+- Download and install the required libraries.
+
+## Object detection with your custom data
+
+- Get your photos or pics for the objects you want to detect.
+- Annotation!!
+- Train your model.
+- Deploy your model.
+
+##
+
 https://colab.research.google.com/drive/14DQhBXKtnMFWB9FibY1J_oehefB0tfe-?usp=sharing
