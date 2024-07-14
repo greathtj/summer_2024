@@ -2,6 +2,10 @@
 
 # 영재학교 현장연구 2024년도
 
+## Welcome Video
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/KR2NAK7uFzA/0.jpg)](http://www.youtube.com/watch?v=KR2NAK7uFzA "Welcome")
+
 ## The Artificial Intelligence
 
 ### What is Artificial Intelligence?
